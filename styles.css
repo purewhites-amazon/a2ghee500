@@ -1,0 +1,63 @@
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff8f0;
+    color: #3a2e1f;
+}
+header {
+    text-align: center;
+    padding: 20px;
+}
+header img {
+    max-width: 150px;
+}
+main {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+.product-img {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: 0 auto 20px;
+}
+h1 {
+    text-align: center;
+    color: #3a2e1f;
+}
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+.buy-button {
+    display: block;
+    width: fit-content;
+    margin: 30px auto;
+    background-color: #3a2e1f;
+    color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-weight: 600;
+}
+.testimonials {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #fff3e6;
+    border-radius: 8px;
+}
+.testimonial {
+    margin-bottom: 20px;
+}
+.testimonial p {
+    margin: 0;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    color: #6b5e4d;
+}
